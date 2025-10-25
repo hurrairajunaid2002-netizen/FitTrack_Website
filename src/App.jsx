@@ -3,7 +3,7 @@ import Navbar from "./components/Navbar";
 import Features from "./components/Features";
 import Dashboard from "./components/Dashboard";
 import Footer from "./components/Footer";
-import Hero from "./components/hero";
+import Hero from "./components/Hero"; // ✅ if the file is hero.jsx
 import OnboardingForm from "./components/onboardingForm";
 import Contact from "./components/Contacts";
 
